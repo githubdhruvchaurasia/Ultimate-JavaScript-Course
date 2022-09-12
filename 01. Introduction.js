@@ -1,0 +1,1 @@
+console.log("This is the introduction page of JavaScript");
